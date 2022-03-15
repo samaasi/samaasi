@@ -36,19 +36,22 @@ Here are some ideas to get you started:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
-![GCP](https://img.shields.io/badge/Gcp-black?style=for-the-badge&logo=gcp&logoColor=5849BE)
+![Google Cloud Platform](https://img.shields.io/badge/gcp-white?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Symfony](https://img.shields.io/badge/symfony-%23FF2D20.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-grey.svg?style=for-the-badge&logo=symfony&logoColor=000000)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![ElectronJS](https://img.shields.io/badge/electronjs-%23FF2D20.svg?style=for-the-badge&logo=electron&logoColor=white)
+![ElectronJS](https://img.shields.io/badge/electronjs-black.svg?style=for-the-badge&logo=electron&logoColor=47848F)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PosgreSQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-white.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=samaasi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samaasi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samaasi&theme=dark&hide_border=true)
+
+<!-- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
