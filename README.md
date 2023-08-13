@@ -35,11 +35,14 @@ Here are some ideas to get you started:
 # 💻Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-%23777BB4.svg?style=for-the-badge&logo=aws&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Google Cloud Platform](https://img.shields.io/badge/gcp-white?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Symfony](https://img.shields.io/badge/symfony-grey.svg?style=for-the-badge&logo=symfony&logoColor=000000)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23FF2D20.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%23FF2D20.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![ElectronJS](https://img.shields.io/badge/electronjs-black.svg?style=for-the-badge&logo=electron&logoColor=47848F)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-white.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) 
