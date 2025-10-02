@@ -12,8 +12,10 @@
 
 ## Connect with me:
 
-[<img align="left" alt="samaasi | LinkedIn" width="22px" height="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />](https://www.linkedin.com/in/samaasi/)
+[<img align="left" alt="Samaasi | LinkedIn" width="22px" height="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />](https://www.linkedin.com/in/samaasi/)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=samaasi&style=for-the-badge) -->
+
+---
 
 ## Languages and Tools:
 
