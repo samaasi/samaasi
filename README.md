@@ -11,14 +11,12 @@
 - ⚡ I aim to create productive awareness about tech in people around me.
 
 ## Connect with me:
-
 [<img align="left" alt="Samaasi | LinkedIn" width="22px" height="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />](https://www.linkedin.com/in/samaasi/)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=samaasi&style=for-the-badge) -->
 
 ---
 
 ## Languages and Tools:
-
 <!-- Languages -->
 <img align="left" alt="Go" width="26px" height="26px" src="https://cdn.simpleicons.org/go/00ADD8" />
 <img align="left" alt="Node.js" width="26px" height="26px" src="https://cdn.simpleicons.org/nodedotjs/339933" />
@@ -49,9 +47,9 @@
 <img align="left" alt="Nginx" width="26px" height="26px" src="https://cdn.simpleicons.org/nginx/009639" />
 <img align="left" alt="RabbitMQ" width="26px" height="26px" src="https://cdn.simpleicons.org/rabbitmq/FF6600" />
 <img align="left" alt="OpenTelemetry" width="26px" height="26px" src="https://cdn.simpleicons.org/opentelemetry/F56600" />
+
 <!--
 # 🏆 Trophies
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samaasi&theme=algolia&no-bg=true&no-frame=true)
 --->
 # 📊 GitHub Stats
