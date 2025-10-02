@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benson-samasi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bsamaasi)
-![Profile Views](https://komarev.com/ghpvc/?username=samaasi&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=samaasi&style=for-the-badge) -->
 
 # 💻 Tech Stack
 
@@ -56,7 +56,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=samaasi&hide=contribs&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samaasi&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&theme=radical&hide_border=true&layout=compact&hide=HTML,CSS,Blade)
+![](https://github-readme-stats-3bbwmps3s-benson-samasis-projects.vercel.app/api/top-langs/?username=samaasi&count_private=true&show_icons=true&theme=radical&hide_border=true&layout=compact&hide=HTML,CSS,Blade)
 
 <!--
 Suggestions:
