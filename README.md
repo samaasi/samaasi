@@ -47,16 +47,16 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
+<!--
 # 🏆 Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samaasi&theme=algolia&no-bg=true&no-frame=true)
-
+--->
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=samaasi&hide=contribs&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samaasi&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&theme=radical&hide_border=true&layout=compact&hide=HTML,CSS)
 
 <!--
 Suggestions:
