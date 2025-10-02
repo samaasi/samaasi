@@ -11,7 +11,7 @@
 - ⚡ I aim to create productive awareness about tech in people around me.
 
 > *"I don’t just write code — I architect scalable digital systems."*
-
+<!--
 ---
 <div align="center">
 
@@ -19,7 +19,7 @@
     [![Twitter Follow](https://img.shields.io/twitter/follow/bsamaasi?logo=x&style=for-the-badge&color=1DA1F2)](https://twitter.com/bsamaasi)
     [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsamaasi/)
 
-</div>
+</div> -->
 ---
 
 ## 🛠️ **ARSENAL**
@@ -56,13 +56,13 @@
 
 ## 📊 **BATTLEFIELD STATISTICS**
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samaasi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&icon_color=FF6B35&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
