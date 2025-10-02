@@ -12,7 +12,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="samaasi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samaasi/)
+[<img align="left" alt="samaasi | LinkedIn" width="22px" height="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />](https://www.linkedin.com/in/samaasi/)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=samaasi&style=for-the-badge) -->
 
 ## Languages and Tools:
@@ -26,7 +26,7 @@
 
 <!-- Frameworks & Libraries -->
 <img align="left" alt="Laravel" width="26px" height="26px" src="https://cdn.simpleicons.org/laravel/FF2D20" />
-<img align="left" alt="Express.js" width="26px" height="26px" src="https://cdn.simpleicons.org/express/000000" />
+<img align="left" alt="Express.js" width="26px" height="26px" src="https://cdn.simpleicons.org/express/FFFFFF" style="background-color:#111111; padding:2px; border-radius:4px;" />
 <img align="left" alt="NestJS" width="26px" height="26px" src="https://cdn.simpleicons.org/nestjs/E0234E" />
 <img align="left" alt="TailwindCSS" width="26px" height="26px" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
 
@@ -41,12 +41,12 @@
 <!-- Cloud & DevOps -->
 <img align="left" alt="Docker" width="26px" height="26px" src="https://cdn.simpleicons.org/docker/2496ED" />
 <img align="left" alt="Kubernetes" width="26px" height="26px" src="https://cdn.simpleicons.org/kubernetes/326CE5" />
-<img align="left" alt="AWS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" />
+<img align="left" alt="AWS" width="26px" height="26px" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
 <img align="left" alt="Google Cloud" width="26px" height="26px" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
 <img align="left" alt="DigitalOcean" width="26px" height="26px" src="https://cdn.simpleicons.org/digitalocean/0067FF" />
 <img align="left" alt="Nginx" width="26px" height="26px" src="https://cdn.simpleicons.org/nginx/009639" />
 <img align="left" alt="RabbitMQ" width="26px" height="26px" src="https://cdn.simpleicons.org/rabbitmq/FF6600" />
-<img align="left" alt="OpenTelemetry" width="26px" height="26px" src="https://cdn.simpleicons.org/opentelemetry/000000" />
+<img align="left" alt="OpenTelemetry" width="26px" height="26px" src="https://cdn.simpleicons.org/opentelemetry/F56600" />
 <!--
 # 🏆 Trophies
 
