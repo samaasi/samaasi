@@ -41,7 +41,7 @@
 <!-- Cloud & DevOps -->
 <img align="left" alt="Docker" width="26px" height="26px" src="https://cdn.simpleicons.org/docker/2496ED" />
 <img align="left" alt="Kubernetes" width="26px" height="26px" src="https://cdn.simpleicons.org/kubernetes/326CE5" />
-<img align="left" alt="AWS" width="26px" height="26px" src="https://cdn.simpleicons.org/amazonaws/232F3E" />
+<img align="left" alt="AWS" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" />
 <img align="left" alt="Google Cloud" width="26px" height="26px" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
 <img align="left" alt="DigitalOcean" width="26px" height="26px" src="https://cdn.simpleicons.org/digitalocean/0067FF" />
 <img align="left" alt="Nginx" width="26px" height="26px" src="https://cdn.simpleicons.org/nginx/009639" />
