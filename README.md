@@ -76,7 +76,7 @@
 
 ```bash
 #!/bin/bash
-# The Samaasi way
+# The Samaasi's way
 
 echo "🎯 Code is not written, it's engineered."
 echo "⚡ Performance is a feature, not an afterthought."
