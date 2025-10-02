@@ -56,7 +56,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=samaasi&hide=contribs&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samaasi&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&theme=radical&hide_border=true&layout=compact&hide=HTML,CSS)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaasi&theme=radical&hide_border=true&layout=compact&hide=HTML,CSS,Blade)
 
 <!--
 Suggestions:
