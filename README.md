@@ -7,8 +7,9 @@
 - 💻 Building with Golang, Node.js, PHP — plus Laravel, Express/NestJS, and TypeScript.
 - 📡 Event‑driven messaging (RabbitMQ) and observability (OpenTelemetry).
 - 💬 Ask me about Systems Design, Golang, Node.js, PHP/Laravel.
-- 👯 Open to collaborate on Healthcare projects (HL7/FHIR implementations).
+<!--- 👯 Open to collaborate on Healthcare projects (HL7/FHIR implementations).
 - ⚡ I aim to create productive awareness about tech in people around me.
+-->
 
 > *"I don’t just write code — I architect scalable digital systems."*
 <!--
